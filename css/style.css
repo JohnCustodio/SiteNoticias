@@ -185,6 +185,7 @@ input.submit {
 img.imagem-principal{
     width: 98%;
     border: 3px solid #dfdfdf;
+    margin-top: 3px;
 }
 
 /*******Formatação Cabeçalhos*******/
@@ -214,8 +215,8 @@ h3 {
 }
 
 #lista-noticias li a img {
-   float: left;
-   margin: 5px;
+  float: left;
+   margin: 4px;
 }
 
 #lista-noticias li a {
